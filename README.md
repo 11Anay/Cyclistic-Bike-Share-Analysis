@@ -133,7 +133,7 @@ The Power BI dashboard provides an interactive overview of rider behavior.
 
 > **Dashboard Preview**
 
-![Cyclistic Dashboard](images/dashboard.png)
+![Cyclistic Dashboard](cyclistic_dashboard.png)
 
 ---
 
